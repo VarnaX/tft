@@ -1,4 +1,4 @@
-# TaskFlow 🚀
+# TaskFlow :) 🚀
 
 > A modern, full-stack Task Management application built as a high-performance monorepo using **React 19**, **Vite**, **Tailwind CSS v4**, **FastAPI**, **SQLAlchemy**, and **Relational Databases (SQLite, PostgreSQL, MySQL)**, with multi-stage **Docker** containerization and **GitHub Actions** CI/CD.
 
